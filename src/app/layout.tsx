@@ -1,15 +1,12 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Preahvihear } from "next/font/google";
 import "./globals.css";
+import Header from "./components/header";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+const preahvihear = Preahvihear({
+  subsets: ["latin"], // hỗ trợ tiếng Việt
+  weight: "400", // font này thường chỉ có 400
+  display: "swap",
 });
 
 export const metadata: Metadata = {
@@ -25,8 +22,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${preahvihear.className} w-full`}
       >
+        
         {children}
       </body>
     </html>
