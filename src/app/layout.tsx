@@ -29,7 +29,6 @@ export default function RootLayout({
   
   <meta name="robots" content="index, follow">
 
-  <!-- SEO mở rộng -->
   <meta property="og:title" content="Nguyen Thai Tu – Website Developer">
   <meta property="og:description" content="A website developer who brings your ideas on the internet. Modern, clean, responsive design.">
   <meta property="og:type" content="website">
