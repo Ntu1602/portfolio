@@ -21,6 +21,22 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+  <title>Hello! I Am Nguyen Thai Tu – Website Developer | Portfolio</title>
+
+  <meta name="description" 
+        content="A website developer who brings your ideas to the internet. I create modern, responsive, clean and professional websites with great UI/UX.">
+  
+  <meta name="robots" content="index, follow">
+
+  <!-- SEO mở rộng -->
+  <meta property="og:title" content="Nguyen Thai Tu – Website Developer">
+  <meta property="og:description" content="A website developer who brings your ideas on the internet. Modern, clean, responsive design.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://portfolio.liana.vn">
+  <meta property="og:image" content="https://portfolio.liana.vn/og-thumbnail.jpg">
+</head>
+
       <body
         className={`${preahvihear.className} w-full`}
       >
