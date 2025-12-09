@@ -10,7 +10,7 @@ const preahvihear = Preahvihear({
 });
 
 export const metadata = {
-  title: "Hello! I Am Nguyen Thai Tu – Website Developer",
+  title: "Hello! I Am Nguyen Thai Tu –- Website Developer",
   description:
     "A website developer who brings your ideas on the internet. Modern, clean, professional UI/UX.",
 };
