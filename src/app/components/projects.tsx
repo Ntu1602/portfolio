@@ -12,7 +12,7 @@ export default function Projects(){
                         <div className="flex">
                             <img className="w-[10%]" alt="Wordpress" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/330px-WordPress_blue_logo.svg.png" />
                         </div>
-                        <a className="block rounded-xl text-center py-1 border border-purple-600 text-white " href="liana.vn">View</a>
+                        <a className="block rounded-xl text-center py-1 border border-purple-600 text-white " href="https://liana.vn" target="_blank">View</a>
                     </div>
                 </div>
                 <div className="p-4 border border-purple-600 rounded-2xl">
@@ -23,7 +23,7 @@ export default function Projects(){
                         <div className="flex">
                             <img className="w-[10%]" alt="Wordpress" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/330px-WordPress_blue_logo.svg.png" />
                         </div>
-                        <a className="block rounded-xl text-center py-1 border border-purple-600 text-white " href="lucnguyen.liana.vn">View</a>
+                        <a className="block rounded-xl text-center py-1 border border-purple-600 text-white " href="https://lucnguyen.liana.vn" target="_blank">View</a>
                     </div>
                 </div>
                 <div className="p-4 border border-purple-600 rounded-2xl">
