@@ -6,8 +6,8 @@ export default function Banner(){
                 <img className='w-full drop-shadow-[0_0_100px_#6a0dad]' src="/portfolio/Chandung.png" alt="" />
             </div>
             <div className='w-[60%] flex flex-col justify-center'>
-                <p className='w-full text-white'>Hello! I Am <span className='text-[#561F8F] text-2xl'>Nguyen Thai Tu</span></p>
-                <p className='w-full break-normal text-white'>A website developer who put your ideas on the <span className='text-[#561F8F] text-3xl inline'>internet</span></p>
+                <p className='w-full text-white'>Hiiii! Mình là <span className='text-[#561F8F] text-2xl'>Nguyễn Thái Tú</span></p>
+                <p className='w-full break-normal text-white'>Một lập trình viên <span className='text-[#561F8F] text-3xl inline'>website</span></p>
                 {/* <p className='w-full text-white'>A website developer who</p> */}
             </div>
         </div>

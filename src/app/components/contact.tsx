@@ -3,7 +3,7 @@ export default function Contact(){
             <div className="lg:min-w-[1040px] lg:max-w-[1440px] mx-auto pt-5 px-4">
                 <h1 className="text-white text-2xl py-5">Contact</h1>
                 <div>
-                    <p className="text-white">If you want to design a website for bussiness, yourself. Please contact to me! I will be your solution!</p>
+                    <p className="text-white">Nếu bạn cần thiết kế website bằng Workpress thì có thể liên hệ mình nhé ! vì thiết kế bằng NextJS mình chưa đủ trình!</p>
                     <p className="text-white py-2">nguyenthaitu0122@gmail.com</p>
                     <div className="flex gap-2">
                         <a href="https://zalo.me/906295930" target="_blank"><img className="w-5 h-5" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" alt="" /></a>
