@@ -5,7 +5,7 @@ export default function WorkExperience(){
             <div className="grid grid-cols-1 gap-4 px-4
                             md:grid-cols-2">
                 <div className="flex items-center border border-[#561F8F] shadow-2xs shadow-white rounded-2xl">
-                    <img className="w-[40%] drop-shadow-[0_0_100px_#6a0dad]" src="/portfolio/student.webp" alt="" />
+                    <img className="w-[40%] drop-shadow-[0_0_100px_#6a0dad]" src="/portfolio/sinh-vien.png  " alt="" />
                     <div>
                         <h3 className="text-white font-bold text-2xl
                                         md:text-[24px]">Ly Tu Trong Collage</h3>
@@ -17,38 +17,38 @@ export default function WorkExperience(){
                 </div>
                 
                 <div className="flex items-center border border-[#561F8F] shadow-2xs shadow-white rounded-2xl">
-                    <img className="w-[40%] drop-shadow-[0_0_100px_#6a0dad]" src="/portfolio/student.webp" alt="" />
+                    <img className="w-[40%] drop-shadow-[0_0_100px_#6a0dad]" src="/portfolio/nvvp.png" alt="" />
                     <div>
                         <h3 className="text-white font-bold text-2xl
-                        md:text-[24px]">Ly Tu Trong Collage</h3>
+                        md:text-[24px]">Hanwha Life</h3>
                         <h3 className="text-white opacity-80 font-bold
-                                        md:text-[18px]">Student</h3>
+                                        md:text-[18px]">Sale Admin</h3>
                         <p className="text-white font-bold
-                                        md:text-[16px]">2021 - 2025</p>
+                                        md:text-[16px]">2025 - Current</p>
                     </div>
                 </div>
 
                 <div className="flex items-center border border-[#561F8F] shadow-2xs shadow-white rounded-2xl">
-                    <img className="w-[40%] drop-shadow-[0_0_100px_#6a0dad]" src="/portfolio/student.webp" alt="" />
+                    <img className="w-[40%] drop-shadow-[0_0_100px_#6a0dad]" src="/portfolio/7-11.png" alt="" />
                     <div>
                         <h3 className="text-white font-bold text-2xl
-                        md:text-[24px]">Ly Tu Trong Collage</h3>
+                        md:text-[24px]">7 - Eleven</h3>
                         <h3 className="text-white opacity-80 font-bold
-                                        md:text-[18px]">Student</h3>
+                                        md:text-[18px]">Staff</h3>
                         <p className="text-white font-bold
-                                        md:text-[16px]">2021 - 2025</p>
+                                        md:text-[16px]">2024 - Current</p>
                     </div>
                 </div>
 
                 <div className="flex items-center border border-[#561F8F] shadow-2xs shadow-white rounded-2xl">
-                    <img className="w-[40%] drop-shadow-[0_0_100px_#6a0dad]" src="/portfolio/student.webp" alt="" />
+                    <img className="w-[40%] drop-shadow-[0_0_100px_#6a0dad]" src="/portfolio/trasua.png" alt="" />
                     <div>
                         <h3 className="text-white font-bold text-2xl
-                        md:text-[24px]">Ly Tu Trong Collage</h3>
+                        md:text-[24px]">Trà sữa Coffit</h3>
                         <h3 className="text-white opacity-80 font-bold
-                                        md:text-[18px]">Student</h3>
+                                        md:text-[18px]">Staff</h3>
                         <p className="text-white font-bold
-                                        md:text-[16px]">2021 - 2025</p>
+                                        md:text-[16px]">2019- 2023</p>
                     </div>
                 </div>
             </div>
